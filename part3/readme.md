@@ -1,5 +1,5 @@
-# Part 2: ILM Hot Warm Cold - Allocation
-Commands used in https://www.youtube.com/watch?v=eOrI-Z0Nl1k
+# Part 3: ILM Hot Warm Cold - Migration
+Commands used in https://www.youtube.com/watch?v=JsCB_VoOrWc
 
 ```
 GET /_cat/nodes
